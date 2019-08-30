@@ -70,15 +70,15 @@ a{
   body {
     margin: 0;
     /* background-size:contain */
-    background: url('../pages/pic/bannermix.jpg') no-repeat;
+    background: url('../pages/pic/bannermix.png') no-repeat;
     background-position-x: center;
     background-position-y: 10px;
     background-color: rgb(20, 20, 20);
   }
 
   h2{
-  padding-top: 50px;
-  font-size: 34px;
+  padding-top: 30px;
+  font-size: 26px;
   color: rgba(243, 243, 243, 0.74);
   height: 30px;
   animation: HeroAnimation;
@@ -87,8 +87,8 @@ a{
 
   
   p{
-    font-size: 20px;
-    height: 20px;
+    font-size: 16px;
+    height: 16px;
     color: #e7e7e7be;
     animation: HeroAnimation;
     animation-duration: 2s;
