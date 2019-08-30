@@ -11,7 +11,7 @@ const IndexPage = () => (
     <link rel='shortcut icon' type='image/x-icon' sizes='16x16' href='src/pages/icon/numlogo3.ico'></link> */}
     </Helmet>
     <div className='bgc'></div>
-    <h1 fontsize='1333px'>Welcome to NUM Design</h1>
+    <h2 id='H11'>Welcome to NUM Design</h2>
     <p>Welcome to a new design team</p>
     {/* <p>Now go see something great.</p> */}
  

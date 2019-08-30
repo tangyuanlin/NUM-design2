@@ -1,0 +1,49 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+div h1{
+    font-size: 30px;
+    color: rgb(201, 201, 201);
+}
+
+.Header{
+    /* position: fixed; */
+    /* width: 100%;
+    padding: 0px 0px; */
+    height: 80px;
+    z-index: 100; 
+    background-color: rgb(0, 0, 0);
+}
+
+.HeaderGroup{
+    max-width: 1280px;
+    /* padding: 10px 0px; */
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    align-items: center;
+    justify-items: center;
+    animation: HeroAnimation;
+    animation-direction: 3s;
+    z-index: 100;
+}
+
+.HeaderBackgroundcolor{
+    /* background-color: rgb(48, 48, 48); */
+    /* background: linear-gradient(to bottom,rgb(255, 255, 255),rgb(0, 0, 0)); */
+    /* 
+    max-width: 100%;
+    opacity: 1; */
+    /* padding: 25px; */
+    /* height: 50px; */
+    /* margin: -50px 0px; */
+    /* position: relative; */
+    /* z-index: -1; */
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+
